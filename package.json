@@ -1,0 +1,22 @@
+{
+  "name": "cypressnov",
+  "version": "1.0.0",
+  "description": "Cypressnov",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-vukosavljevic/najnovije.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-vukosavljevic/najnovije/issues"
+  },
+  "homepage": "https://github.com/ivan-vukosavljevic/najnovije#readme",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}
